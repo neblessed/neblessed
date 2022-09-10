@@ -1,4 +1,4 @@
-## Hi there 👋🏼
+## Hi there!
 
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning with API/UI testing.
