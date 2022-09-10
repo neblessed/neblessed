@@ -1,4 +1,4 @@
-### Hi there 👋🏼
+## Hi there 👋🏼
 
 - 👨🏽‍💻 I'm QA with 1 year experience.
 - 🔭 I’m currently working on something cool!
