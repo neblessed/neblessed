@@ -1,7 +1,7 @@
 ## Greetings!
 
 -  🔭 I’m currently working on something cool!
--  📑 And currently learning **Docker**, **CI/CD** and **Spring Framework**
+-  📑 And currently learning **Playwright** and **Typescript**
 -  📩 You can reach me [**here**](https://t.me/neblessed/)
 -  🌐 [**My Website**](https://neblessed.github.io/) 
 
