@@ -1,8 +1,19 @@
-## Greetings!
+## Hi 👋, I'm Vadim
 
--  🔭 I’m currently working on something cool!
--  📑 And currently learning **Playwright** and **Typescript**
--  📩 You can reach me [**here**](https://t.me/neblessed/)
--  🌐 [**My Website**](https://neblessed.github.io/) 
+### Fullstack QA
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=Spring)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+- 🌱 I'm currently learning **React and Redux**
+
+- 👯 I'm looking to collaborate on **open source projects**
+
+- 📫 How to reach me **fw.mbagg@gmail.com**
+
+<h4 align="left">Languages and Tools:</h4>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="30" height="30"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="30" height="30"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="30" height="30"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="k8s" width="30" height="30"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="30" height="30"/> </a>
+</p>
+
