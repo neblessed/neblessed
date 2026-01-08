@@ -1,7 +1,3 @@
-## Hi 👋, I'm Vadim
-
-### Fullstack QA
-
 - 🌱 I'm currently learning **React and Redux**
 
 - 👯 I'm looking to collaborate on **open source projects**
