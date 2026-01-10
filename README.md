@@ -2,7 +2,7 @@
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 📫 How to reach me **fw.mbagg@gmail.com** | https://t.me/neblessed
+- 📫 How to reach me **fw.mbagg@gmail.com** | [**@neblessed**](https://t.me/neblessed)
 - 🛜 My website: [neblessed.github.io](https://neblessed.github.io)
 
 <h4 align="left">Languages and Tools:</h4>
